@@ -1,0 +1,50 @@
+body {
+    background: #000;
+    @include perspective($size*5);
+  }
+  ul {
+    display: block;
+    position: relative;
+    top: 100px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    @include transform-style(preserve-3d);
+    @include animation(rotate 60s infinite linear);
+  }
+  li {
+    position: absolute;
+    display: block;
+    list-style: none;
+    width: 100%;
+    background-color: rgba(#fff,.05);
+    @include transform-style(preserve-3d);
+    > div {
+      float: left;
+      width: $size;
+      height: $size;
+      line-height: $size;
+      text-align: center;
+      background-color: #fff;
+      cursor: pointer;
+      @include transform(rotateY(90deg));
+      @include transition(.2s);
+      &:hover {
+        @include opacity(.6);
+      }
+    }
+  }
+  @for $i from 0 through $liNum {
+    li:nth-child(#{$i + 1}) {
+      @include transform(rotateY(($i * $liDeg)+deg));
+    }
+  }
+  
+  @-webkit-keyframes rotate {
+    0% {@include transform(rotateY(0deg))}
+    100% {@include transform(rotateY(360deg))}
+  }
+  @keyframes rotate {
+    0% {@include transform(rotateY(0deg))}
+    100% {@include transform(rotateY(360deg))}
+  }

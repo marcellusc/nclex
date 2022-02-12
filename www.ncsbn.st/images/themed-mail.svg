@@ -1,0 +1,29 @@
+<svg xmlns="#www.w3.org/2000/svg" xmlns:xlink="#www.w3.org/1999/xlink" width="240" height="24" viewBox="0 0 240 24" xml:space="preserve">
+  <style type="text/css">
+    .theme-slate {fill: #4A4A4A; }
+    .theme-orange {fill: #E06535; }
+    .theme-plum {fill: #5B4270; }
+    .theme-navy {fill: #00415B; }
+    .theme-metro {fill: #1893C1; }
+    .theme-seafoam {fill: #017C77; }
+    .theme-wasabi {fill: #7B9324; }
+    .theme-fern {fill: #4A7C3B; }
+    .theme-steel {fill: #66889B; }
+    .theme-teal {fill: #078292; }
+  </style>
+
+  <symbol id="mail" width="24" height="24">
+    <path d="M2.7 20.5h18.4c1.1 0 2-.9 2-2v-13c0-1.1-.9-2-2-2H2.7c-1.1 0-2 .9-2 2v13c0 1.1.9 2 2 2zm1.8-15h14.8l-7.4 6.3-7.4-6.3zm16.7 1v12H2.7v-12l9.3 7.8 9.2-7.8z"/>
+  </symbol>
+
+  <use xlink:href="#mail" x="0" y="0" class="theme-slate"></use>
+  <use xlink:href="#mail" x="24" y="0" class="theme-orange"></use>
+  <use xlink:href="#mail" x="48" y="0" class="theme-plum"></use>
+  <use xlink:href="#mail" x="72" y="0" class="theme-navy"></use>
+  <use xlink:href="#mail" x="96" y="0" class="theme-metro"></use>
+  <use xlink:href="#mail" x="120" y="0" class="theme-seafoam"></use>
+  <use xlink:href="#mail" x="144" y="0" class="theme-wasabi"></use>
+  <use xlink:href="#mail" x="168" y="0" class="theme-fern"></use>
+  <use xlink:href="#mail" x="192" y="0" class="theme-steel"></use>
+  <use xlink:href="#mail" x="216" y="0" class="theme-teal"></use>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="210" height="207" xmlns="#www.w3.org/2000/svg" viewBox="0 0 210 207">
+  <path fill="none" stroke="#E5E5E5" stroke-width="3" stroke-miterlimit="10" d="M1.5 66.9h207v138.6H1.5zM1.5 21.2h207v33.3H1.5z"/>
+  <path fill="none" stroke="#E5E5E5" stroke-width="3" stroke-miterlimit="10" d="M16.2 82.8h35.5v35.5H16.2zM51.8 82.8h35.5v35.5H51.8z"/>
+  <path fill="none" stroke="#E5E5E5" stroke-width="3" stroke-miterlimit="10" d="M87.2 82.8h35.5v35.5H87.2zM122.8 82.8h35.5v35.5h-35.5z"/>
+  <path fill="none" stroke="#E5E5E5" stroke-width="3" stroke-miterlimit="10" d="M158.2 82.8h35.5v35.5h-35.5zM16.2 118.3h35.5v35.5H16.2zM51.8 118.3h35.5v35.5H51.8z"/>
+  <path fill="none" stroke="#E5E5E5" stroke-width="3" stroke-miterlimit="10" d="M87.2 118.3h35.5v35.5H87.2zM122.8 118.3h35.5v35.5h-35.5z"/>
+  <path fill="none" stroke="#E5E5E5" stroke-width="3" stroke-miterlimit="10" d="M158.2 118.3h35.5v35.5h-35.5zM16.2 153.8h35.5v35.5H16.2zM51.8 153.8h35.5v35.5H51.8z"/>
+  <path fill="none" stroke="#E5E5E5" stroke-width="3" stroke-miterlimit="10" d="M87.2 153.8h35.5v35.5H87.2zM122.8 153.8h35.5v35.5h-35.5z"/>
+  <path fill="none" stroke="#E5E5E5" stroke-width="3" stroke-miterlimit="10" d="M158.2 153.8h35.5v35.5h-35.5z"/>
+  <g>
+    <path fill="none" stroke="#E5E5E5" stroke-width="3" stroke-miterlimit="10" d="M51.1.1v36"/>
+    <circle fill="none" stroke="#E5E5E5" stroke-width="3" stroke-miterlimit="10" cx="51.1" cy="36.1" r="7"/>
+  </g>
+  <g>
+    <path fill="none" stroke="#E5E5E5" stroke-width="3" stroke-miterlimit="10" d="M158.9.1v36"/>
+    <circle fill="none" stroke="#E5E5E5" stroke-width="3" stroke-miterlimit="10" cx="158.9" cy="36.1" r="7"/>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg width="626" height="311" xmlns="#www.w3.org/2000/svg" xmlns:xlink="#www.w3.org/1999/xlink">
+  <defs>
+    <path id="a" d="M0 0h627v311H0z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="b" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <use fill="#BDA4D2" xlink:href="#a"/>
+    <path fill="#E7CAFF" opacity=".855" mask="url(#b)" d="M19 30h30v282H19z"/>
+    <path fill="#E7CAFF" opacity=".463" mask="url(#b)" d="M62 85h30v227H62z"/>
+    <path fill="#E7CAFF" opacity=".86" mask="url(#b)" d="M105 125h30v187h-30z"/>
+    <path fill="#E7CAFF" opacity=".463" mask="url(#b)" d="M147 52h30v260h-30z"/>
+    <path fill="#E7CAFF" opacity=".86" mask="url(#b)" d="M190 108h30v204h-30z"/>
+    <path fill="#E7CAFF" opacity=".463" mask="url(#b)" d="M234 14h30v298h-30z"/>
+    <path fill="#E7CAFF" opacity=".86" mask="url(#b)" d="M277 72h30v240h-30z"/>
+    <path fill="#E7CAFF" opacity=".463" mask="url(#b)" d="M320 72h30v240h-30z"/>
+    <path fill="#E7CAFF" opacity=".86" mask="url(#b)" d="M363 33h30v279h-30z"/>
+    <path fill="#E7CAFF" opacity=".463" mask="url(#b)" d="M406 72h30v240h-30z"/>
+    <path fill="#E7CAFF" opacity=".86" mask="url(#b)" d="M449 151h30v161h-30z"/>
+    <path fill="#E7CAFF" opacity=".463" mask="url(#b)" d="M492 172h30v140h-30z"/>
+    <path fill="#E7CAFF" opacity=".86" mask="url(#b)" d="M535 99h30v213h-30z"/>
+    <path fill="#E7CAFF" opacity=".463" mask="url(#b)" d="M579 38h30v274h-30z"/>
+    <path d="M-17.31 182.399l50.573 55.757 45.493-61.249 40.566 18.468 43.66-18.468 42.298 49.008 44.247-18.384 42.956 30.625h42.578l43.8-30.625 41.733-4.166 44.932 57.564 42.459-22.773 44.429-76.626 41.894-35.491L648 29v292.724H-26.965l4.435-137.406a3 3 0 0 1 5.22-1.92z" fill="#893F98" opacity=".259" mask="url(#b)"/>
+  </g>
+</svg>

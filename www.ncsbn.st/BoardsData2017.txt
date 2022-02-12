@@ -1,0 +1,63 @@
+<map bgColor="ffffff" legendBgAlpha="0" legendBorderColor="ffffff" animation="0" showBevel="0" showLegend="1" legendPosition="bottom" showMarkerLabels="1" includeNameInLabels="1" includeValueInLabels="1" fillColor="82dcd9" borderColor="f7f5f4" connectorColor="666666" hoverColor="E6E6E6" canvasBorderColor="ffffff" baseFont="Arial" baseFontColor="333333" baseFontSize="9" markerBorderColor="333333" markerRadius="6" legendShadow="0" useHoverColor="1" showMarkerToolTip="1" interactiveLegend="0" showmarkerlabels="1">
+	<colorRange>
+		<color minValue="0" maxValue="1" displayValue="1 U.S. Member" color="82dcd9"/>
+		<color minValue="1" maxValue="2" displayValue="2 U.S. Members" color="13bfb8"/>
+	</colorRange>
+	<data>
+		<entity id='001' name='AL' link='Alabama.htm'  />
+		<entity id='002' name='AK' link='Alaska.htm'  />
+		<entity id='003' name='AZ' link='Arizona.htm'  />
+		<entity id='004' name='AR' link='Arkansas.htm'  />
+		<entity id='005' name='AS' displayValue='AS' link='American Samoa.htm'  />
+		<entity id='006' name='CA' toolText='California: RN &amp; VN Boards' link='California.htm' color='13bfb8' />
+		<entity id='007' name='CO' link='Colorado.htm'  />
+		<entity id='008' name='CT' displayValue='CT' link='Connecticut.htm'  />
+		<entity id='009' name='CNMI' displayValue='MP' link='Northern Mariana Islands.htm'  />
+		<entity id='010' name='DE' displayValue='DE' link='Delaware.htm'  />
+		<entity id='011' name='FL' link='Florida.htm'  />
+		<entity id='012' name='GA' link='Georgia.htm'  />
+		<entity id='013' name='GU' displayValue='GU' link='Guam.htm'  />
+		<entity id='014' name='HI' displayValue='HI' link='Hawaii.htm'  />
+		<entity id='015' name='ID' link='Idaho.htm'  />
+		<entity id='016' name='IL' link='Illinois.htm'  />
+		<entity id='017' name='IN' link='Indiana.htm'  />
+		<entity id='018' name='IA' link='Iowa.htm'  />
+		<entity id='019' name='KS' link='Kansas.htm'  />
+		<entity id='020' name='KY' link='Kentucky.htm'  />
+		<entity id='021' name='LA' toolText='Louisiana: PN &amp; RN Boards' link='Louisiana.htm' color='13bfb8'  />
+		<entity id='022' name='ME' link='Maine.htm'  />
+		<entity id='023' name='MD' displayValue='MD' link='Maryland.htm'  />
+		<entity id='024' name='MA' link='Massachusetts.htm'  />
+		<entity id='025' name='MI' link='Michigan.htm'  />
+		<entity id='026' name='MN' link='Minnesota.htm'  />
+		<entity id='027' name='MS' link='Mississippi.htm'  />
+		<entity id='028' name='MO' link='Missouri.htm'  />
+		<entity id='029' name='MT' link='Montana.htm'  />
+		<entity id='030' name='NE' toolText='Nebraska: Member Board &amp; AP Board' link='Nebraska.htm' color='13bfb8'  />
+		<entity id='031' name='NV' link='Nevada.htm'  />
+		<entity id='032' name='NH' link='New Hampshire.htm'  />
+		<entity id='033' name='NJ' displayValue='NJ' link='New Jersey.htm'  />
+		<entity id='034' name='NM' link='New Mexico.htm'  />
+		<entity id='035' name='NY' link='New York.htm'  />
+		<entity id='036' name='NC' link='North Carolina.htm'  />
+		<entity id='037' name='ND' link='North Dakota.htm'  />
+		<entity id='038' name='OH' link='Ohio.htm'  />
+		<entity id='039' name='OK' link='Oklahoma.htm'  />
+		<entity id='040' name='OR' link='Oregon.htm'  />
+		<entity id='041' name='PA' link='Pennsylvania.htm'  />
+		<entity id='042' name='RI' displayValue='RI' link='Rhode Island.htm'  />
+		<entity id='043' name='SC' link='South Carolina.htm'  />
+		<entity id='044' name='SD' link='South Dakota.htm'  />
+		<entity id='045' name='TN' link='Tennessee.htm'  />
+		<entity id='046' name='TX' link='Texas.htm'  />
+		<entity id='047' name='UT' link='Utah.htm'  />
+		<entity id='048' name='VT' link='Vermont.htm'  />
+		<entity id='049' name='VA' link='Virginia.htm'  />
+		<entity id='050' name='VI' displayValue='VI' link='Virgin Islands.htm'  />
+		<entity id='051' name='WA' link='Washington.htm'  />
+		<entity id='052' name='WV' toolText='West Virginia: PN &amp; RN Boards' link='West Virginia.htm' color='13bfb8'  />
+		<entity id='053' name='WI' link='Wisconsin.htm'  />
+		<entity id='054' name='WY' link='Wyoming.htm'  />
+		<entity id='055' name='DC' displayValue='DC' link='District of Columbia.htm'  />
+	</data>
+</map>

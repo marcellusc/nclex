@@ -1,0 +1,9 @@
+<svg width="14" height="18" viewBox="0 0 14 18" xmlns="#www.w3.org/2000/svg" xmlns:xlink="#www.w3.org/1999/xlink">
+  <g transform="translate(0 .723)" fill="none" fill-rule="evenodd">
+    <image y="5" width="13" height="9" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAUCAYAAACeXl35AAAAAXNSR0IArs4c6QAAAWJJREFUSA3dVTFug0AQBMuVsWvjVwTJSt6TJpYlvydNXpI3JEIifR6A65Da8QBzGlbsQUOTa+52d3aH2duz0yzb3JL7appfbIuv1eIMhmBt7GC+vH8nH3Wn+lLkyanYh9hbdU1eqzrYX88P7VlzGLS5sxR+1j/Mb3drl/2HDUC9oR8Kl0t4Lg4hn0rpsHZZN23oMd8R4u4uoZcxpoaKoQYt5NIzfS7hMc+IaXcSUc0gKAbJxTU4uoRAPQlpjEhbrGd7f6gZJQSAi1+u08kYdnSAXVC/PUcJdXBYVAvoHaED2gWNaU6UUIFolRZEu4/5NkDYgeBwDu7DBx6Dg8K8Fy2KJ6CDBQxxyB27P/hnKwRYC1KdDhYwWGO+LjKD0HvMqo7FuHs5iE8qpBIWw64K7GApbuw8g3D4A4AiMQWIe/eH2CQhQKoItqq2rbVY4HVFp5RAq8iS4M1xgi2WNbin//4f/w+yAntapjeKhwAAAABJRU5ErkJggg=="/>
+    <g stroke="#8B8B8B">
+      <path d="M13.5 4.207L9.793.5H2C1.172.5.5 1.172.5 2v13c0 .828.672 1.5 1.5 1.5h10c.828 0 1.5-.672 1.5-1.5V4.207z"/>
+      <path d="M9.5.5v4h4"/>
+    </g>
+  </g>
+</svg>

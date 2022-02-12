@@ -1,0 +1,37 @@
+<svg width="626" height="311" xmlns="#www.w3.org/2000/svg" xmlns:xlink="#www.w3.org/1999/xlink">
+  <defs>
+    <path id="a" d="M0 0h627v311H0z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="b" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <use fill="#C6DBE7" xlink:href="#a"/>
+    <g stroke-width="16" mask="url(#b)" stroke-linecap="round" stroke-linejoin="round">
+      <g stroke="#BACFDC">
+        <path d="M317.001 175l-.001-.5c0-53.295 43.205-96.5 96.5-96.5s96.5 43.205 96.5 96.5l-.001.5H317zM510.001 175l-.001-.5c0-53.295 43.205-96.5 96.5-96.5s96.5 43.205 96.5 96.5l-.001.5H510zM-68.999 175l-.001-.5C-69 121.205-25.795 78 27.5 78s96.5 43.205 96.5 96.5l-.001.5H-69zM375 253h39v77h-39zM414 253h39v77h-39z"/>
+        <path d="M452 253h39v77h-39zM491 253h39v77h-39z"/>
+        <path d="M529 253h39v77h-39zM568 253h39v77h-39zM607 253h39v77h-39z"/>
+        <g>
+          <path d="M-11 253h39v77h-39z"/>
+          <path d="M27 253h39v77H27z"/>
+        </g>
+        <g>
+          <path d="M333 175h45v78h-45zM378 175h45v78h-45zM423 175h45v78h-45zM468 175h45v78h-45zM513 175h45v78h-45zM558 175h45v78h-45zM603 175h45v78h-45z"/>
+        </g>
+        <g>
+          <path d="M-27 175h45v78h-45zM18 175h45v78H18zM63 175h45v78H63z"/>
+        </g>
+      </g>
+      <g stroke="#EEFCFE">
+        <path d="M124.001 175l-.001-.5c0-53.295 43.205-96.5 96.5-96.5s96.5 43.205 96.5 96.5l-.001.5H124zM207 47h28v31h-28zM222 19h-2v22h2zM108 175h45v78h-45zM153 175h45v78h-45zM198 175h45v78h-45zM243 175h45v78h-45zM288 175h45v78h-45z"/>
+        <g>
+          <path d="M66 253h39v77H66zM105 253h39v77h-39z"/>
+          <path d="M143 253h39v77h-39zM182 253h39v77h-39z"/>
+          <path d="M220 253h39v77h-39zM259 253h39v77h-39zM298 253h39v77h-39z"/>
+          <path d="M336 253h39v77h-39z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

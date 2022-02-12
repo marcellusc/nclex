@@ -1,0 +1,30 @@
+<svg xmlns="#www.w3.org/2000/svg" xmlns:xlink="#www.w3.org/1999/xlink" width="320" height="32" viewBox="0 0 320 32" xml:space="preserve">
+  <style type="text/css">
+    .theme-slate {color: #4A4A4A; }
+    .theme-orange {color: #E06535; }
+    .theme-plum {color: #5B4270; }
+    .theme-navy {color: #00415B; }
+    .theme-metro {color: #1893C1; }
+    .theme-seafoam {color: #017C77; }
+    .theme-wasabi {color: #7B9324; }
+    .theme-fern {color: #4A7C3B; }
+    .theme-steel {color: #66889B; }
+    .theme-teal {color: #078292; }
+  </style>
+
+  <symbol id="arrow-circle" width="32" height="32">
+    <path fill="currentColor" d="M21.5,16l-9,7v-2.5l5.9-4.5l-5.9-4.5V9L21.5,16z"/>
+    <circle fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" cx="16" cy="16" r="15"/>
+  </symbol>
+
+  <use xlink:href="#arrow-circle" x="0" y="0" class="theme-slate"></use>
+  <use xlink:href="#arrow-circle" x="32" y="0" class="theme-orange"></use>
+  <use xlink:href="#arrow-circle" x="64" y="0" class="theme-plum"></use>
+  <use xlink:href="#arrow-circle" x="96" y="0" class="theme-navy"></use>
+  <use xlink:href="#arrow-circle" x="128" y="0" class="theme-metro"></use>
+  <use xlink:href="#arrow-circle" x="160" y="0" class="theme-seafoam"></use>
+  <use xlink:href="#arrow-circle" x="192" y="0" class="theme-wasabi"></use>
+  <use xlink:href="#arrow-circle" x="224" y="0" class="theme-fern"></use>
+  <use xlink:href="#arrow-circle" x="256" y="0" class="theme-steel"></use>
+  <use xlink:href="#arrow-circle" x="288" y="0" class="theme-teal"></use>
+</svg>

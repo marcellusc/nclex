@@ -1,0 +1,29 @@
+<svg xmlns="#www.w3.org/2000/svg" xmlns:xlink="#www.w3.org/1999/xlink" width="550" height="41" viewBox="0 0 550 41" xml:space="preserve">
+  <style type="text/css">
+    .theme-slate {fill: #4A4A4A; }
+    .theme-orange {fill: #E06535; }
+    .theme-plum {fill: #5B4270; }
+    .theme-navy {fill: #00415B; }
+    .theme-metro {fill: #1893C1; }
+    .theme-seafoam {fill: #017C77; }
+    .theme-wasabi {fill: #7B9324; }
+    .theme-fern {fill: #4A7C3B; }
+    .theme-steel {fill: #66889B; }
+    .theme-teal {fill: #078292; }
+  </style>
+
+  <symbol id="toolbox" width="56" height="42">
+    <path d="M50 10.3h-9.5V4c0-2.2-1.8-4-4-4H18.6c-2.2 0-4 1.8-4 4v6.3H5c-2.8 0-5 2.2-5 5V36c0 2.8 2.2 5 5 5h45c2.8 0 5-2.2 5-5V15.3c0-2.8-2.2-5-5-5zM18.6 4h17.9v6.3H18.6V4zM51 36c0 .5-.5 1-1 1H5c-.5 0-1-.5-1-1v-7.9h15.1c0 1.7 1.3 3 3 3h10.6c1.7 0 3-1.3 3-3H51V36zM23.1 26v-1.6c0-.8.6-1 1-1h6.6c.4 0 1 .2 1 1V26c0 .6-.5 1-1 1h-6.6c-.6 0-1-.4-1-1zM51 24.1H35.7v-1.6c0-1.7-1.3-3-3-3H22.1c-1.7 0-3 1.3-3 3v1.6H4v-8.8c0-.5.5-1 1-1h45c.5 0 1 .5 1 1v8.8z"/>
+  </symbol>
+
+  <use xlink:href="#toolbox" x="0" y="0" class="theme-slate"></use>
+  <use xlink:href="#toolbox" x="55" y="0" class="theme-orange"></use>
+  <use xlink:href="#toolbox" x="110" y="0" class="theme-plum"></use>
+  <use xlink:href="#toolbox" x="165" y="0" class="theme-navy"></use>
+  <use xlink:href="#toolbox" x="220" y="0" class="theme-metro"></use>
+  <use xlink:href="#toolbox" x="275" y="0" class="theme-seafoam"></use>
+  <use xlink:href="#toolbox" x="330" y="0" class="theme-wasabi"></use>
+  <use xlink:href="#toolbox" x="385" y="0" class="theme-fern"></use>
+  <use xlink:href="#toolbox" x="440" y="0" class="theme-steel"></use>
+  <use xlink:href="#toolbox" x="495" y="0" class="theme-teal"></use>
+</svg>

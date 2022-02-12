@@ -1,0 +1,12 @@
+﻿.link-file-inline {
+    display: inline-block!important;
+    line-height: 22px!important;        
+    padding-left: 1.35em!important;
+    background-repeat: no-repeat;
+}
+.icon-lock.link-file-inline{
+    background-position: 2px 3px;    
+}
+/* Navigation secure link */
+.nested-list--link.icon-lock { background-position: 1em center; padding-left: 2.5em; }
+ 

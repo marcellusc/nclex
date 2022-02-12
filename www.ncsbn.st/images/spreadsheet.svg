@@ -1,0 +1,19 @@
+<svg width="14" height="18" viewBox="0 0 14 18" xmlns="#www.w3.org/2000/svg" xmlns:xlink="#www.w3.org/1999/xlink">
+  <defs>
+    <path id="a" d="M0 0h9v9H0z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(2 5.66)">
+      <mask id="b" fill="#fff">
+        <use xlink:href="#a"/>
+      </mask>
+      <use fill="#D8D8D8" xlink:href="#a"/>
+      <path stroke="#979797" d="M.5.5h8v8h-8z"/>
+      <image mask="url(#b)" x="-3" y="-7" width="14.615" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAuCAYAAABNhcu5AAAAAXNSR0IArs4c6QAAAU9JREFUWAntV9sNwjAMLIgvCvzzGIMJWIFNOgF8V6pYhBWYgDEQA/D4rAqOdKg6ZBKhBhIpkYJr1zV352CVXl3XTRbA6geAwUBIQLgTSRFWZIDAZDLGZSd2s9lmRVE41/LWml1VZdVzOy+ZI7LzfGh209GaT6eN7LIsTX18j2a9KQIlXJXxDkQAuYD5CRAXMN6BnM7nTLYNjHcgBkHrQ2vTa460cju9XMxmb/UEjKz2nPm5IkDFyvTkdy03MVlvtztyvdrRKDf1L5ersX9ThFlaz8hyv+JnvvKP68PH5+JRBDSYEZTiOPJhkQdfs/EpojHT4hpzLR6fInwWoATHmTHyOM5+fIpozLQ4M7b58SnCZwFKcJyZI4/j7MeniMZMizNjmx+MIul9hFsVTGsSkNQaVoD9YM7I21s8/m8wYt9+MIq8Jqtvxrb6wSiSgHCrHhhu1gQQSR9hAAAAAElFTkSuQmCC"/>
+    </g>
+    <g stroke="#8B8B8B">
+      <path d="M13.5 4.868L9.793 1.16H2c-.828 0-1.5.673-1.5 1.5v13c0 .83.672 1.5 1.5 1.5h10c.828 0 1.5-.67 1.5-1.5V4.87z"/>
+      <path d="M9.5 1.16v4h4"/>
+    </g>
+  </g>
+</svg>

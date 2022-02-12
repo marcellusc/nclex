@@ -1,0 +1,473 @@
+<svg width="631" height="345" xmlns="#www.w3.org/2000/svg" xmlns:xlink="#www.w3.org/1999/xlink">
+  <defs>
+    <path id="a" d="M0 0h631v345H0z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="b" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <use fill="#AFD7E6" xlink:href="#a"/>
+    <g mask="url(#b)">
+      <g transform="translate(306 254)">
+        <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+        <g transform="translate(11.077 11.077)" fill="#96C9DD">
+          <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+      </g>
+      <g transform="translate(30 254)">
+        <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+        <g transform="translate(11.077 11.077)" fill="#96C9DD">
+          <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+      </g>
+      <g transform="translate(444 254)">
+        <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+        <g transform="translate(11.077 11.077)" fill="#96C9DD">
+          <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+      </g>
+      <g transform="translate(168 254)">
+        <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+        <g transform="translate(11.077 11.077)" fill="#96C9DD">
+          <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+      </g>
+      <g transform="translate(582 254)">
+        <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+        <g transform="translate(11.077 11.077)" fill="#96C9DD">
+          <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+      </g>
+      <g transform="translate(-39 254)">
+        <g transform="translate(11.077 11.077)" fill="#96C9DD">
+          <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+        <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+      </g>
+      <g transform="translate(375 254)">
+        <g transform="translate(11.077 11.077)" fill="#96C9DD">
+          <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+        <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+      </g>
+      <g transform="translate(99 254)">
+        <g transform="translate(11.077 11.077)" fill="#96C9DD">
+          <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+        <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+      </g>
+      <g transform="translate(513 254)">
+        <g transform="translate(11.077 11.077)" fill="#96C9DD">
+          <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+        <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+      </g>
+      <g transform="translate(237 254)">
+        <g transform="translate(11.077 11.077)" fill="#96C9DD">
+          <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+        <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+      </g>
+      <g>
+        <g transform="translate(306 116)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(30 116)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(444 116)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(168 116)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(582 116)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(-39 116)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(375 116)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(99 116)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(513 116)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(237 116)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+      </g>
+      <g>
+        <g transform="translate(306 -22)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(30 -22)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(444 -22)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(168 -22)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(582 -22)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(-39 -22)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(375 -22)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(99 -22)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(513 -22)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(237 -22)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+      </g>
+      <g>
+        <g transform="translate(237 185)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(-39 185)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(375 185)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(99 185)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(513 185)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(306 185)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(30 185)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(444 185)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(168 185)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(582 185)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+      </g>
+      <g>
+        <g transform="translate(237 47)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(-39 47)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(375 47)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(99 47)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(513 47)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(306 47)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(30 47)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(444 47)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(168 47)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(582 47)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+      </g>
+      <g>
+        <g transform="translate(237 323)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(-39 323)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(375 323)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(99 323)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(513 323)">
+          <circle stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" cx="27" cy="27" r="27"/>
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+        </g>
+        <g transform="translate(306 323)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(30 323)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(444 323)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(168 323)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+        <g transform="translate(582 323)">
+          <g transform="translate(11.077 11.077)" fill="#96C9DD">
+            <rect y="13.846" width="31.846" height="5.538" rx="2.769"/>
+            <rect transform="rotate(90 15.923 16.615)" y="13.846" width="31.846" height="5.538" rx="2.769"/>
+          </g>
+          <path stroke="#96C9DD" stroke-width="7" fill="#AFD7E6" d="M0 0h54v54H0z"/>
+          <rect fill="#96C9DD" x="11.077" y="24.923" width="31.846" height="5.538" rx="2.769"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

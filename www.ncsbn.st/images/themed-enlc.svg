@@ -1,0 +1,29 @@
+<svg xmlns="#www.w3.org/2000/svg" xmlns:xlink="#www.w3.org/1999/xlink" width="240" height="24" viewBox="0 0 240 24" xml:space="preserve">
+  <style type="text/css">
+    .theme-slate {fill: #4A4A4A; }
+    .theme-orange {fill: #E06535; }
+    .theme-plum {fill: #5B4270; }
+    .theme-navy {fill: #00415B; }
+    .theme-metro {fill: #1893C1; }
+    .theme-seafoam {fill: #017C77; }
+    .theme-wasabi {fill: #7B9324; }
+    .theme-fern {fill: #4A7C3B; }
+    .theme-steel {fill: #66889B; }
+    .theme-teal {fill: #078292; }
+  </style>
+
+  <symbol id="enlc" width="24" height="24">
+    <path d="M17.5 17.1h2.8l-4.2 4.2h-2.8l4.2-4.2zm2.9-9.8l-4.2-4.2h-2.8l4.2 4.2h2.8zm3.6 4.6l-2.7 2.4h-4.9l-7 7L0 12l9.3-9.3 6.8 6.8h5.2l2.7 2.4zm-7.8.1L9.3 5.2 2.5 12l6.8 6.8 6.9-6.8zm-11 0l4.2 4.2 4.2-4.2-4.3-4.2L5.2 12z" />
+  </symbol>
+
+  <use xlink:href="#enlc" x="0" y="0" class="theme-slate"></use>
+  <use xlink:href="#enlc" x="24" y="0" class="theme-orange"></use>
+  <use xlink:href="#enlc" x="48" y="0" class="theme-plum"></use>
+  <use xlink:href="#enlc" x="72" y="0" class="theme-navy"></use>
+  <use xlink:href="#enlc" x="96" y="0" class="theme-metro"></use>
+  <use xlink:href="#enlc" x="120" y="0" class="theme-seafoam"></use>
+  <use xlink:href="#enlc" x="144" y="0" class="theme-wasabi"></use>
+  <use xlink:href="#enlc" x="168" y="0" class="theme-fern"></use>
+  <use xlink:href="#enlc" x="192" y="0" class="theme-steel"></use>
+  <use xlink:href="#clock" x="216" y="0" class="theme-teal"></use>
+</svg>

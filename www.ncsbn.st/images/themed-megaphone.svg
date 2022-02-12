@@ -1,0 +1,36 @@
+<svg id="Layer_1" xmlns="#www.w3.org/2000/svg" xmlns:xlink="#www.w3.org/1999/xlink" width="560" height="42" viewBox="0 0 560 42" xml:space="preserve">
+  <style type="text/css">
+    path {fill: none; stroke: currentColor; stroke-linecap: round; stroke-linejoin: round; }
+    .theme-slate {color: #4A4A4A; }
+    .theme-orange {color: #E06535; }
+    .theme-plum {color: #5B4270; }
+    .theme-navy {color: #00415B; }
+    .theme-metro {color: #1893C1; }
+    .theme-seafoam {color: #017C77; }
+    .theme-wasabi {color: #7B9324; }
+    .theme-fern {color: #4A7C3B; }
+    .theme-steel {color: #66889B; }
+    .theme-teal {color: #078292; }
+  </style>
+
+  <symbol id="megaphone" width="56" height="42">
+    <g transform="translate(4 3)">
+      <path d="M1.5 17.4c2.1-.6 4.3.7 4.9 2.9L8.9 30c.6 2.1-.7 4.3-2.9 4.9-2.1.6-4.3-.7-4.9-2.9l-2.5-9.7c-.5-2.2.8-4.3 2.9-4.9z" stroke-width="5"/>
+      <path d="M13.4 20l12.8-6.4.4.9-12.8 6.4-.4-.9z"/>
+      <path d="M28.9 11.9l4.6-2.2.4.9-4.6 2.2-.4-.9z"/>
+      <path d="M6.5 18.7L40.8-.5 49 31.4l-39.3-.1z" stroke-width="5"/>
+      <path d="M16 31.7c1.5 5.8 6.4 8.7 11.4.1" stroke-width="4"/>
+    </g>
+  </symbol>
+
+  <use xlink:href="#megaphone" x="0" y="0" class="theme-slate"></use>
+  <use xlink:href="#megaphone" x="56" y="0" class="theme-orange"></use>
+  <use xlink:href="#megaphone" x="112" y="0" class="theme-plum"></use>
+  <use xlink:href="#megaphone" x="168" y="0" class="theme-navy"></use>
+  <use xlink:href="#megaphone" x="224" y="0" class="theme-metro"></use>
+  <use xlink:href="#megaphone" x="280" y="0" class="theme-seafoam"></use>
+  <use xlink:href="#megaphone" x="336" y="0" class="theme-wasabi"></use>
+  <use xlink:href="#megaphone" x="392" y="0" class="theme-fern"></use>
+  <use xlink:href="#megaphone" x="448" y="0" class="theme-steel"></use>
+  <use xlink:href="#megaphone" x="504" y="0" class="theme-teal"></use>
+</svg>

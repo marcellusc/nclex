@@ -1,0 +1,32 @@
+<svg xmlns="#www.w3.org/2000/svg" xmlns:xlink="#www.w3.org/1999/xlink" width="140" height="9" viewBox="0 0 140 9" xml:space="preserve">
+  <style type="text/css">
+    .theme-slate {color: #4A4A4A; }
+    .theme-orange {color: #E06535; }
+    .theme-plum {color: #5B4270; }
+    .theme-navy {color: #00415B; }
+    .theme-metro {color: #1893C1; }
+    .theme-seafoam {color: #017C77; }
+    .theme-wasabi {color: #7B9324; }
+    .theme-fern {color: #4A7C3B; }
+    .theme-steel {color: #66889B; }
+    .theme-teal {color: #078292; }
+  </style>
+
+  <symbol id="video" width="14" height="9">
+    <g fill="currentColor" fill-rule="evenodd">
+      <rect width="10" height="9" rx="2"/>
+      <path d="M7 4.5L14 1v7z"/>
+    </g>
+  </symbol>
+
+  <use xlink:href="#video" x="0" y="0" class="theme-slate"></use>
+  <use xlink:href="#video" x="14" y="0" class="theme-orange"></use>
+  <use xlink:href="#video" x="28" y="0" class="theme-plum"></use>
+  <use xlink:href="#video" x="42" y="0" class="theme-navy"></use>
+  <use xlink:href="#video" x="56" y="0" class="theme-metro"></use>
+  <use xlink:href="#video" x="70" y="0" class="theme-seafoam"></use>
+  <use xlink:href="#video" x="84" y="0" class="theme-wasabi"></use>
+  <use xlink:href="#video" x="98" y="0" class="theme-fern"></use>
+  <use xlink:href="#video" x="112" y="0" class="theme-steel"></use>
+  <use xlink:href="#video" x="126" y="0" class="theme-teal"></use>
+</svg>
